@@ -1,4 +1,4 @@
-# stm32l152ret6-project 
+# stm32l152ret6-FreeRTOS
 This is a port of FreeRTOS for the STM32L152RET6 board. 
 
 ## CONFIGURATION
